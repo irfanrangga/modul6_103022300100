@@ -22,14 +22,8 @@ namespace modul6_103022300100
             SayaTubeVideo film9 = new SayaTubeVideo("Inglourious Basterds");
             SayaTubeVideo film10 = new SayaTubeVideo("Oppenheimer");
 
-            film1.IncreasePlayCount(120);
-            film2.IncreasePlayCount(185);
-            film3.IncreasePlayCount(182);
-            film4.IncreasePlayCount(124);
-            film5.IncreasePlayCount(150);
-
             film1.PrintVideoDetails();
-
+            Console.WriteLine();
             // Menambahkan Film ke list
             user.AddVideo(film1);
             user.AddVideo(film2);
@@ -43,7 +37,22 @@ namespace modul6_103022300100
             user.AddVideo(film10);
 
             // Mencetak film dalam list
+
             user.PrintAllVideoPlaycount();
+            Console.WriteLine();
+            try
+            {
+                for (int i = 0; i < 5; i++)
+                {
+                    film1.IncreasePlayCount(20000000);
+                    film1.PrintVideoDetails();
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            
         }
     }
 }

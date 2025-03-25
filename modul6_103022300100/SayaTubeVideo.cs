@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,6 +16,11 @@ namespace modul6_103022300100
 
         public SayaTubeVideo(string title)
         {
+            Contract.Requires(title.Length < 200);
+            Contract.Requires(title != null);
+            Contract.Requires(playCount > 0);
+
+
             this.id = rand.Next(10000,99999);
             this.title = title;
             this.playCount = 0;
@@ -22,7 +28,18 @@ namespace modul6_103022300100
 
         public void IncreasePlayCount(int counter)
         {
-            this.playCount += counter;
+            Contract.Requires(counter < 25000000);
+            try
+            {
+                checked
+                {
+                    this.playCount += counter;
+                }
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("Terjadi Oveflow");
+            }
         }
 
         public void PrintVideoDetails()
