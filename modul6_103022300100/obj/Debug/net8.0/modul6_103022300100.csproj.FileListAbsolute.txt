@@ -1,0 +1,15 @@
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\bin\Debug\net8.0\modul6_103022300100.exe
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\bin\Debug\net8.0\modul6_103022300100.deps.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\bin\Debug\net8.0\modul6_103022300100.runtimeconfig.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\bin\Debug\net8.0\modul6_103022300100.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\bin\Debug\net8.0\modul6_103022300100.pdb
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\modul6_103022300100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\modul6_103022300100.AssemblyInfoInputs.cache
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\modul6_103022300100.AssemblyInfo.cs
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\modul6_103022300100.csproj.CoreCompileInputs.cache
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\modul6_103022300100.sourcelink.json
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\modul6_103022300100.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\refint\modul6_103022300100.dll
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\modul6_103022300100.pdb
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\modul6_103022300100.genruntimeconfig.cache
+C:\Users\Irfan Rangga\OneDrive\Kuliah\Praktikum\Konstruksi PL\modul6_103022300100\modul6_103022300100\obj\Debug\net8.0\ref\modul6_103022300100.dll
